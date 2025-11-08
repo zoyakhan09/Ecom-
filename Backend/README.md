@@ -49,7 +49,7 @@ Bash
 
 cd ../backend
 npm start
-The backend should run on http://localhost:5000 (or configured port).
+The backend should run on http://localhost:4000 (or configured port).
 
 Run the Frontend Application:
 
@@ -57,4 +57,4 @@ Bash
 
 cd ../frontend
 npm run dev
-The frontend should run on http://localhost:3000 (or configured port).
+The frontend should run on http://localhost:5713 (or configured port).
